@@ -1,0 +1,15 @@
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\bin\Debug\net7.0\Zadacha41.exe
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\bin\Debug\net7.0\Zadacha41.deps.json
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\bin\Debug\net7.0\Zadacha41.runtimeconfig.json
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\bin\Debug\net7.0\Zadacha41.dll
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\bin\Debug\net7.0\Zadacha41.pdb
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\obj\Debug\net7.0\Zadacha41.csproj.AssemblyReference.cache
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\obj\Debug\net7.0\Zadacha41.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\obj\Debug\net7.0\Zadacha41.AssemblyInfoInputs.cache
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\obj\Debug\net7.0\Zadacha41.AssemblyInfo.cs
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\obj\Debug\net7.0\Zadacha41.csproj.CoreCompileInputs.cache
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\obj\Debug\net7.0\Zadacha41.dll
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\obj\Debug\net7.0\refint\Zadacha41.dll
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\obj\Debug\net7.0\Zadacha41.pdb
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\obj\Debug\net7.0\Zadacha41.genruntimeconfig.cache
+E:\study\DZ_C#\DZ_Seminar6_C#\Zadacha41\obj\Debug\net7.0\ref\Zadacha41.dll
